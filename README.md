@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Muhammed Fariz KP
 
-# Here is my  [Portfolio](https://farizz7676.github.io/)
+# Here is my  [Portfolio](https://farizz7676.github.io/Portfolio/)
 
 - 🔭 I’m currently working on [StudyMate](https://ministudymate.web.app/)
 - 🌱 I’m currently learning React.js
